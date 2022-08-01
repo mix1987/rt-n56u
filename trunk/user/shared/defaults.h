@@ -37,10 +37,10 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"US"
-#define DEF_WLAN_2G_SSID	"MT300N-V2"
-#define DEF_WLAN_5G_SSID	BOARD_PID "_5G_%s"
-#define DEF_WLAN_2G_GSSID	"MT300N-V2"
-#define DEF_WLAN_5G_GSSID	BOARD_PID "_GUEST_5G_%s"
+#define DEF_WLAN_2G_SSID	""
+#define DEF_WLAN_5G_SSID	""
+#define DEF_WLAN_2G_GSSID	""
+#define DEF_WLAN_5G_GSSID	""
 #define DEF_WLAN_2G_PSK		""
 #define DEF_WLAN_5G_PSK		""
 
