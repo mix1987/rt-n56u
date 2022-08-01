@@ -1,11 +1,11 @@
 /* HC5661A */
 
-#define BOARD_PID		"HC5661A"
-#define BOARD_NAME		"HC5661A"
-#define BOARD_DESC		"HiWiFi HC5661A Wireless Router"
-#define BOARD_VENDOR_NAME	"HiWiFi"
-#define BOARD_VENDOR_URL	"http://www.hiwifi.com/"
-#define BOARD_MODEL_URL		"http://www.hiwifi.com/"
+#define BOARD_PID		"MT300N-V2"
+#define BOARD_NAME		"MT300N-V2"
+#define BOARD_DESC		"MT300N-V2 Wireless Router"
+#define BOARD_VENDOR_NAME	""
+#define BOARD_VENDOR_URL	""
+#define BOARD_MODEL_URL		""
 #define BOARD_BOOT_TIME		25
 #define BOARD_FLASH_TIME	120
 #define BOARD_GPIO_BTN_RESET	38
