@@ -37,7 +37,7 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"US"
-#define DEF_WLAN_2G_SSID	""
+#define DEF_WLAN_2G_SSID	"MT300N-V2-TEST"
 #define DEF_WLAN_5G_SSID	""
 #define DEF_WLAN_2G_GSSID	""
 #define DEF_WLAN_5G_GSSID	""
